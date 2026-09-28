@@ -1,0 +1,7 @@
+{
+  "name": "Pracownia Krawiecko-Tapicerska „Dorota” – Niemodlin",
+  "description": "Pracownia Krawiecko-Tapicerska „Dorota” w Niemodlinie: tapicerka meblowa i samochodowa, renowacja mebli, szycie na miarę, usługi krawieckie. Tel: 505 297 801",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
